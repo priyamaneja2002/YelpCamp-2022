@@ -1,5 +1,5 @@
 # YelpCamp-2022
-Yelpcamp is a node.js web application, where people can share, rate and review different campgrounds all over the world. Users can rate, add comments on different campgrounds and share there experiences and thoughts.
+Yelpcamp is a node.js web application, where people can share, rate and review different campgrounds all over the world. Users can rate, add comments on different campgrounds and share their experiences and thoughts.
 I made this project as a part of my Udemy course - The Web Developer Bootcamp 2022 by Colt Steele.
 
 
