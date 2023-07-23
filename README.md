@@ -38,7 +38,7 @@ To visit deployed website, visit: https://yelpcamp-2022-production.up.railway.ap
 ## Getting Started
 This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
 
-* Clone or download this repository
+* Clone or download this repository.
 
 ## Install dependencies
 npm install
